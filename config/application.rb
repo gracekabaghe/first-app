@@ -19,11 +19,11 @@ module FirstApp
     # The default locale is :en and all translations from config/locales/*.rb,yml are auto loaded.
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
-<<<<<<< HEAD
+
   config.assets.version = '1.0'
-    config.assets.initialize_on_precompile = false end
-=======
+    config.assets.initialize_on_precompile = false 
+
     
   end
->>>>>>> 4b8026f44d75403f8c6ee0947974e00521d4c92c
+
 end
